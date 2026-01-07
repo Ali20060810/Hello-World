@@ -5,7 +5,6 @@
 
 - 📫 How to reach me **aliakhtaransari.cse2024@citchennai.net**
 
-<h2><a href="https://vyhant.vercel.app/" target="_blank" rel="noopener noreferrer">Portfolio</a></h2>
 
 - ⚡Fun fact **Currently vibing in Chennnai, where even browser tabs scream ‘Hello World.’ Proof that coding clichés aren’t just lines of code… they’re a whole lifestyle choice." 💻🌍✨**
 
